@@ -10,3 +10,4 @@ This Verilog module implements a washing machine and  involves designing a contr
 - Auto Door Lock: Automatically lock the door during operation and only unlock when the cycle is complete for safety.
 
 ## Output Waveform
+![Image](https://github.com/user-attachments/assets/c8a597e6-844c-402c-a074-edae34b2a586)
